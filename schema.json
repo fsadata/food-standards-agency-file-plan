@@ -1,0 +1,20 @@
+{
+	"fields": [
+		{
+			"name": "Level1",
+			"title": "Level1",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "Level2",
+			"title": "Level2",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		}
+	]
+}
